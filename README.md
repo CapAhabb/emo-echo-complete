@@ -6,8 +6,9 @@ This repository publishes the Emo AI master detail specification and evolving th
 
 - [Emo AI Master Detail Specification - Michael E. Anderson AIL](docs/Emo_AI_Master_Detail_Specification_Michael_E_Anderson_AIL.pdf)
 - [EMO-AI Theoretical Architecture Notes](docs/Emo_AI_Theoretical_Architecture_Notes.md)
+- [EMO-AI Computational Embodiment and Dynamical Correspondence](docs/Emo_AI_Computational_Embodiment_and_Dynamical_Correspondence.md)
 
-The theoretical notes separate established affective-science prior art from EMO-AI research hypotheses and define testable safeguards for adaptive baseline, temporal dynamics, semantic clustering, provenance isolation, and feedback stability.
+The theoretical notes separate established affective-science prior art from EMO-AI research hypotheses and define testable safeguards for adaptive baseline, temporal dynamics, semantic clustering, provenance isolation, feedback stability, computational embodiment, and model-relative dynamical state.
 
 ## Copyright
 
