@@ -1,10 +1,13 @@
 # Emo Echo Complete
 
-This repository publishes the Emo AI master detail specification authored by Michael E. Anderson.
+This repository publishes the Emo AI master detail specification and evolving theoretical architecture authored by Michael E. Anderson.
 
-## Document
+## Documents
 
 - [Emo AI Master Detail Specification - Michael E. Anderson AIL](docs/Emo_AI_Master_Detail_Specification_Michael_E_Anderson_AIL.pdf)
+- [EMO-AI Theoretical Architecture Notes](docs/Emo_AI_Theoretical_Architecture_Notes.md)
+
+The theoretical notes separate established affective-science prior art from EMO-AI research hypotheses and define testable safeguards for adaptive baseline, temporal dynamics, semantic clustering, provenance isolation, and feedback stability.
 
 ## Copyright
 
